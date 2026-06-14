@@ -1,6 +1,6 @@
 # zynu-server
 
-High-performance Go backend for the [ZynU](https://zynu.net) platform.
+High-performance Go backend for the ZynU platform.
 Handles HLS video streaming, upload pre-signing, and webhook processing.
 
 ![Go](https://img.shields.io/badge/Go-1.22-00ADD8)
@@ -40,4 +40,4 @@ docker run -p 8080:8080 --env-file .env zynu-server
 
 ## License
 
-MIT © [ZynU](https://zynu.net)
+MIT © ZynU
